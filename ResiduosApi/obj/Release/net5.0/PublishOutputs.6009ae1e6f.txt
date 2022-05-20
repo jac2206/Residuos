@@ -1,0 +1,12 @@
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\ResiduosApi.exe
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\ResiduosApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\ResiduosApi.deps.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\ResiduosApi.runtimeconfig.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\ResiduosApi.pdb
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
