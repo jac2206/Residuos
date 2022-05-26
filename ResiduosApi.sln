@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResiduosApi", "ResiduosApi\ResiduosApi.csproj", "{668CFF12-3AA5-4CA6-9BC5-E5D69DB454F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResiduosApi", "ResiduosApi\ResiduosApi.csproj", "{668CFF12-3AA5-4CA6-9BC5-E5D69DB454F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestResiduosApi", "TestResiduosApi\TestResiduosApi.csproj", "{0F962944-6019-4A33-9561-C64890C06F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResudiosApiMSTest", "ResudiosApiMSTest\ResudiosApiMSTest.csproj", "{D3592DB6-FF75-4BE8-BBCB-4EBAF8224075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{668CFF12-3AA5-4CA6-9BC5-E5D69DB454F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{668CFF12-3AA5-4CA6-9BC5-E5D69DB454F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{668CFF12-3AA5-4CA6-9BC5-E5D69DB454F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F962944-6019-4A33-9561-C64890C06F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F962944-6019-4A33-9561-C64890C06F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F962944-6019-4A33-9561-C64890C06F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F962944-6019-4A33-9561-C64890C06F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3592DB6-FF75-4BE8-BBCB-4EBAF8224075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3592DB6-FF75-4BE8-BBCB-4EBAF8224075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3592DB6-FF75-4BE8-BBCB-4EBAF8224075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3592DB6-FF75-4BE8-BBCB-4EBAF8224075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
