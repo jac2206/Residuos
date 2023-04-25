@@ -28,3 +28,6 @@ D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\ResiduosApi.d
 D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\ref\ResiduosApi.dll
 D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\ResiduosApi.pdb
 D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Release\net5.0\ResiduosApi.genruntimeconfig.cache
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Release\net5.0\aws-beanstalk-tools-defaults.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Release\net5.0\AWSSDK.Core.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Release\net5.0\AWSSDK.DynamoDBv2.dll

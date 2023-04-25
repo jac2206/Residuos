@@ -10,7 +10,10 @@ namespace ResiduosApi.Common.Interface
     {
 
         Task<List<DataInput>> ObtenerResiduos();
+        Task<Object> ObtenerUsuariosPCO();
         Task<List<DataInput>> ObtenerResiduosXCiudad(string ciudad);
+        Task<EventSend> EnviarEvento(EventSend evento);
+        Task<EventoWebHook> EnviarEventoHook(EventoWebHook evento);
 
     }
 }

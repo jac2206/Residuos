@@ -1,0 +1,12 @@
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\ResiduosApi.exe
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\appsettings.Development.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\appsettings.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\ResiduosApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\ResiduosApi.deps.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\ResiduosApi.runtimeconfig.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\ResiduosApi.pdb
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\Newtonsoft.Json.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

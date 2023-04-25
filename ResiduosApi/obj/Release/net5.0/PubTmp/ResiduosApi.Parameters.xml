@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="ResiduosApi" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="HookExampleEvent" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Codigos\\Api\\Residuos\\ResiduosApi\\ResiduosApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

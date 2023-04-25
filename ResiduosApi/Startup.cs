@@ -43,6 +43,7 @@ namespace ResiduosApi
                        .AllowAnyHeader();
             }));
             services.AddScoped<IServiceAPI, ServiceAPI>();
+            services.AddScoped<ICommonService, CommonService>();
 
         }
 

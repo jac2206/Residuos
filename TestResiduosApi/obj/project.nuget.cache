@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz962BGVN1uOiJaAbRR84KWZ9xfq7Kw6jax/yPwocVlcoRyl+lkgqGmCDB+9ViO1WOWQhtEoMLjLOU4xLh0Dxw==",
+  "dgSpecHash": "SWcqnf6UYoCPFcf59TuX4CBMl/Wokc/H8fjN1UAw9SrdpUr7DqO/r2lUF47rP1maPn/4UkD13mP3lMJRFTRhEg==",
   "success": true,
   "projectFilePath": "D:\\Codigos\\Api\\Residuos\\ResiduosApi\\TestResiduosApi\\TestResiduosApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arang\\.nuget\\packages\\awssdk.core\\3.7.13.6\\awssdk.core.3.7.13.6.nupkg.sha512",
+    "C:\\Users\\arang\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.5.2\\awssdk.dynamodbv2.3.7.5.2.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -15,6 +17,7 @@
     "C:\\Users\\arang\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.9.4\\microsoft.testplatform.objectmodel.16.9.4.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\microsoft.testplatform.testhost\\16.9.4\\microsoft.testplatform.testhost.16.9.4.nupkg.sha512",
+    "C:\\Users\\arang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\arang\\.nuget\\packages\\moq\\4.18.1\\moq.4.18.1.nupkg.sha512",

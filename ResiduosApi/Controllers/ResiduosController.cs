@@ -64,6 +64,41 @@ namespace ResiduosApi.Controllers
             }
         }
 
+        [HttpGet("ObtenerUsuarioPC")]
+        public async Task<IActionResult> ObtenerUsuarioPCO()
+        {
+            try
+            {
+                //var servicioApi = new ServiceAPI();
+                //var result = await servicioApi.ObtenerResiduos();
+
+                var result = await _serviceAPI.ObtenerUsuariosPCO();
+
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest(
+                        new DataError
+                        {
+                            Error = "Error mensaje",
+                            Valor = "3",
+                            FechaHora = DateTime.Now
+                        }
+                        );
+                }
+            }
+
+            catch (Exception ex)
+            {
+                return NotFound(ex.Message);
+                //return (ex.ToString());
+
+            }
+        }
+
         [HttpGet("ObtenerResiduosXCiudad/{ciudad}")]
         public async Task<IActionResult> ObtenerResiduosXCiudad(string ciudad)
         {
@@ -105,6 +140,72 @@ namespace ResiduosApi.Controllers
 
                 var result = await _serviceAPI.ObtenerResiduosXCiudad(ciudad);
 
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest(
+                        new DataError
+                        {
+                            Error = "Error mensaje",
+                            Valor = "3",
+                            FechaHora = DateTime.Now
+                        }
+                        );
+                }
+            }
+
+            catch (Exception ex)
+            {
+                return NotFound(ex.Message);
+                //return (ex.ToString());
+
+            }
+        }
+        [HttpPost("EnviarEvento")]
+        public async Task<IActionResult> EnviarEvento([FromBody] EventSend evento)
+        {
+            try
+            {
+
+                //var result = await _serviceAPI.EnviarEvento(evento);
+                var result = evento;
+
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest(
+                        new DataError
+                        {
+                            Error = "Error mensaje",
+                            Valor = "3",
+                            FechaHora = DateTime.Now
+                        }
+                        );
+                }
+            }
+
+            catch (Exception ex)
+            {
+                return NotFound(ex.Message);
+                //return (ex.ToString());
+
+            }
+        }
+
+        [HttpPost("EventoHook")]
+        public async Task<IActionResult> EventoHook([FromBody] EventoWebHook evento)
+        {
+            try
+            {
+
+                var result = await _serviceAPI.EnviarEventoHook(evento);
+                //var result = evento;
                 if (result != null)
                 {
                     return Ok(result);

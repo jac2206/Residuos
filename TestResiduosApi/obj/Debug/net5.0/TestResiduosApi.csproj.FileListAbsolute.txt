@@ -5,6 +5,7 @@ D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\ResiduosApi
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\ResiduosApi.runtimeconfig.dev.json
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\appsettings.Development.json
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\appsettings.json
+D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\ResiduosApi.exe
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\testhost.exe
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -19,6 +20,9 @@ D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\TestResiduo
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\TestResiduosApi.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\ref\TestResiduosApi.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\TestResiduosApi.pdb
+D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
+D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Castle.Core.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
@@ -28,6 +32,7 @@ D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.T
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Moq.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\NuGet.Frameworks.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\nunit.framework.dll
@@ -112,5 +117,3 @@ D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\obj\Debug\net5.0\TestResiduo
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\obj\Debug\net5.0\ref\TestResiduosApi.dll
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\obj\Debug\net5.0\TestResiduosApi.pdb
 D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\obj\Debug\net5.0\TestResiduosApi.genruntimeconfig.cache
-D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Castle.Core.dll
-D:\Codigos\Api\Residuos\ResiduosApi\TestResiduosApi\bin\Debug\net5.0\Moq.dll

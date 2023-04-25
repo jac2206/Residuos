@@ -1,0 +1,15 @@
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\ResiduosApi
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\appsettings.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\aws-beanstalk-tools-defaults.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\ResiduosApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\ResiduosApi.deps.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\ResiduosApi.runtimeconfig.json
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\ResiduosApi.pdb
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\AWSSDK.Core.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\AWSSDK.DynamoDBv2.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codigos\Api\Residuos\ResiduosApi\ResiduosApi\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

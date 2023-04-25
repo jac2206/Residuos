@@ -19,6 +19,25 @@
           "TestResiduosApi.dll": {}
         }
       },
+      "AWSSDK.Core/3.7.13.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.13.6"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.5.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.13.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.2"
+          }
+        }
+      },
       "Castle.Core/5.0.0": {
         "dependencies": {
           "System.Diagnostics.EventLog": "4.7.0"
@@ -321,6 +340,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.11.1": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -799,6 +819,8 @@
       },
       "ResiduosApi/1.0.0": {
         "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.5.2",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.11.1",
           "Newtonsoft.Json": "13.0.1",
           "Swashbuckle.AspNetCore": "5.6.3"
         },
@@ -813,6 +835,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.13.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-acIMaaZCVOH3DrQN09LJJwvnshBpgI9eKMVwTF7syEKxBRam2Y6B0s0T5Kdm8uDhJ/18OqfUYMxYPokHyluNBw==",
+      "path": "awssdk.core/3.7.13.6",
+      "hashPath": "awssdk.core.3.7.13.6.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ariD5h7/KlasADhvGt4IsbqgmYE8eIm14V2JTOLVuLUfp0GC1GAq2KKHKRwzhbBdc/4D/uKuXgX1TLLWfEl1xQ==",
+      "path": "awssdk.dynamodbv2/3.7.5.2",
+      "hashPath": "awssdk.dynamodbv2.3.7.5.2.nupkg.sha512"
     },
     "Castle.Core/5.0.0": {
       "type": "package",
@@ -890,6 +926,13 @@
       "sha512": "sha512-3YuJ7OSb1YPk+OTZfpa8U7I+TUZRH/nCeOWcN+TERp1SUZrcGeG2IGBZvVZ9CbKuQ+7wLiwsfcIgKIu+kbvibg==",
       "path": "microsoft.testplatform.testhost/16.9.4",
       "hashPath": "microsoft.testplatform.testhost.16.9.4.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.11.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1jHxWlSi6/ryWODk6SUjsZPHk/BdsucxqhIi1szEzwc84e8nvZWF45qRXcT2gWPISJ3Ybbyg2LsNG6yX8r7VuA==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.11.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

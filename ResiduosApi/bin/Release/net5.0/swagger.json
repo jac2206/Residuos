@@ -63,6 +63,58 @@
         }
       }
     },
+    "/api/Residuos/EnviarEvento": {
+      "post": {
+        "tags": [
+          "Residuos"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/EventSend"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Residuos/EventoHook": {
+      "post": {
+        "tags": [
+          "Residuos"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/EventoWebHook"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -88,6 +140,63 @@
     }
   },
   "definitions": {
+    "Payload": {
+      "type": "object",
+      "properties": {
+        "titulo": {
+          "type": "string"
+        },
+        "descripcion": {
+          "type": "string"
+        },
+        "valor": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "flag": {
+          "type": "boolean"
+        }
+      }
+    },
+    "EventSend": {
+      "type": "object",
+      "properties": {
+        "event": {
+          "type": "string"
+        },
+        "payload": {
+          "$ref": "#/definitions/Payload"
+        }
+      }
+    },
+    "DataHook": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "sellerId": {
+          "type": "string"
+        },
+        "sellerName": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        }
+      }
+    },
+    "EventoWebHook": {
+      "type": "object",
+      "properties": {
+        "eventType": {
+          "type": "string"
+        },
+        "data": {
+          "$ref": "#/definitions/DataHook"
+        }
+      }
+    },
     "WeatherForecast": {
       "type": "object",
       "properties": {
